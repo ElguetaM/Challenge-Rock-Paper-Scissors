@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #03258c;
+  color: #b1e8fd;
+  margin: 10vh;
+  width: auto;
+}
+
+i {
+  font-size: 200px;
+  margin: 30px;
+}
+
+h1 {
+  font-family: "Protest Riot", sans-serif;
+  font-size: 80px;
+}
+
+.options {
+  margin-top: 20vh;
+  color: #fff;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.scores {
+  margin-top: 60px;
+}
+
+.btn {
+  color: #0476d9;
+}
+
+#result {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+}
+
+/* #010B40
+#03258C
+#044BD9
+#0476D9
+#91D7F2 */
